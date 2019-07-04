@@ -1,0 +1,19 @@
+{
+  "name": "spcs-dorm-pride",
+  "version": "1.0.0",
+  "description": "For dorm pride at SPCS",
+  "main": "index.js",
+  "scripts": {
+    "test": "./start.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zane-programs/spcs-dorm-pride.git"
+  },
+  "author": "Zane St. John",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zane-programs/spcs-dorm-pride/issues"
+  },
+  "homepage": "https://github.com/zane-programs/spcs-dorm-pride#readme"
+}

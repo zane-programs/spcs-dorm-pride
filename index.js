@@ -36,4 +36,4 @@ adminSocket.on('connection', socket => {
   });
 });
 
-const listener = server.listen(3000, () => console.log(`Server listening on port ${listener.address().port}`));
+const listener = server.listen(3030, () => console.log(`Server listening on port ${listener.address().port}`));
